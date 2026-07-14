@@ -206,29 +206,6 @@ Home Assistant receives event
 Notification / Light / Automation triggered
 ```
 
----
-
-# 🏗️ Architecture
-
-```
-🎮 Minecraft Client
-          |
-          |
-          v
-🚀 Velocity Proxy
-          |
-          |
-          v
-📡 Velocity MQTT Bridge
-          |
-          |
-          v
-📨 MQTT Broker
-          |
-          |
-          v
-🏠 Home Assistant / Other Systems
-```
 
 ---
 
@@ -288,7 +265,7 @@ You are free to use, modify and distribute this project.
 
 Created by:
 
-**Tomáš Mészáros**
+Tommmi32
 
 Minecraft + MQTT + Home Automation enthusiast.
 
